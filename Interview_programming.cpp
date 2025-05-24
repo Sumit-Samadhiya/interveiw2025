@@ -15,12 +15,15 @@ using namespace std;
 
 int main()
 {
+    // 1.
     // cout<<"Hello";
 
+    // 2.
     // int a,b;
     // cin>>a>>b;
     // cout<<a+b;
 
+    // 3.
     // int a;
     // cin>>a;
     // if(a%2==0)
@@ -31,6 +34,7 @@ int main()
     //     cout<<"odd";
     // }
 
+    // 4.
     // int a,b,c;
     // cin>>a>>b>>c;
     // if(a>b){
@@ -48,7 +52,7 @@ int main()
     //      cout<<"c is greater";
     // }
 
-
+    // 6.
     // int n;
     // cin>>n;
     // for(int i=1;i<=n; i++)
@@ -56,6 +60,7 @@ int main()
     //     cout<<i<<" ";
     // }
 
+    // 7.
     // int n;
     // cin>>n;
     // int sum=0;
@@ -65,6 +70,7 @@ int main()
     // }
     // cout<<sum;
 
+    // 8.
     // int n;
     // cin>>n;
     // for(int i=1; i<=10; i++)
@@ -73,15 +79,16 @@ int main()
     //     cout<<s<<" ";
     // }
 
+    // 9.
 //     int n;
 //     cin>>n;
 //     for(int i=n-1; i>=1; --i)
 //     {
-//         n=n*i;
-      
+//         n=n*i;    
 //     }
 //       cout<<n;
 
+        // 10.
         // int n;
         // cin>>n;
         // cout<<n*n;

@@ -82,7 +82,9 @@ int main()
 //     }
 //       cout<<n;
 
-        
+        // int n;
+        // cin>>n;
+        // cout<<n*n;
 
 
 

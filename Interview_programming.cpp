@@ -47,6 +47,15 @@ int main()
     // else{
     //      cout<<"c is greater";
     // }
+
+
+    // int n;
+    // cin>>n;
+    // for(int i=1;i<=n; i++)
+    // {
+    //     cout<<i<<" ";
+    // }
+
     
 }
 

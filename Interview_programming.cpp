@@ -21,5 +21,14 @@ int main()
     // cin>>a>>b;
     // cout<<a+b;
 
+    // int a;
+    // cin>>a;
+    // if(a%2==0)
+    // {
+    //     cout<<"even";
+    // }
+    // else{
+    //     cout<<"odd";
+    // }
 }
 

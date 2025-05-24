@@ -73,6 +73,18 @@ int main()
     //     cout<<s<<" ";
     // }
 
+//     int n;
+//     cin>>n;
+//     for(int i=n-1; i>=1; --i)
+//     {
+//         n=n*i;
+      
+//     }
+//       cout<<n;
+
+        
+
+
 
 }
 

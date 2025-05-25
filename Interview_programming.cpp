@@ -152,5 +152,7 @@ int main()
     //     cout<<"not palindrome";
 
     
+
+
 }
 

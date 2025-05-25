@@ -152,8 +152,8 @@ int main()
     //     cout<<"not palindrome";
 
 
-    #include <iostream>
-using namespace std;
+//     #include <iostream>
+// using namespace std;
 
 // Function to find GCD using Euclidean algorithm
 // int findGCD(int a, int b) {
@@ -185,6 +185,15 @@ using namespace std;
 // }
 
 
-
+    // int n;
+    // cin>>n;
+    // int a=-1, b=1,d=0;
+    // while(n > d){
+    //     int c=a+b;
+    //     cout<<c;
+    //     a=b;
+    //     b=c;
+    //     d++;
+    // }
 }
 

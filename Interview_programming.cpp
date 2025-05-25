@@ -93,7 +93,48 @@ int main()
         // cin>>n;
         // cout<<n*n;
 
+//     Find whether a number is a prime number.
+// 12. Print all prime numbers between 1 to N.
+// 13. Reverse a given number.
+// 14. Check if a number is a palindrome.
+// 15. Find the GCD and LCM of two numbers.
+// 16. Print Fibonacci series up to N terms.
+// 17. Count the number of digits in a number.
+// 18. Find the sum of digits of a number.
+// 19. Find Armstrong numbers between 1 to 1000.
+// 20. Print pattern programs (stars, numbers, pyramid, etc.).
+
+//     int a;
+//     cin>>a;
+//    int i=2,c=0,b=0;
+//    while(a>i)
+//     {
+//         if(a%i==0)
+//         {
+//             b++;
+//             break;
+//         }
+//         else{
+//             c++;
+//         }
+//         i++;
+//     }
+//     if(b==1)
+//     {
+//         cout<<"not prime";
+//     }
+//     else{
+//         cout<<"prime";
+//     }
 
 
+    // int n;
+    // cin>>n;
+    // while(n)
+    // {
+    //    int r=n%10;
+    //     cout<<r;
+    //     n=n/10;
+    // }
 }
 

@@ -128,13 +128,13 @@ int main()
 //     }
 
 
-    // int n;
-    // cin>>n;
-    // while(n)
-    // {
-    //    int r=n%10;
-    //     cout<<r;
-    //     n=n/10;
-    // }
-}
+//     // int n;
+//     // cin>>n;
+//     // while(n)
+//     // {
+//     //    int r=n%10;
+//     //     cout<<r;
+//     //     n=n/10;
+//     // }
+// }
 

@@ -215,6 +215,24 @@ int main()
     // }
     // cout<<d;
 
+    // int n,d,r=0;
+    // cin>>n;
+    // int a=n;
+    // while(n> 0)
+    // {
+    //     d= n%10;
+    //    r=r+d*d*d;
+    //    n=n/10;
+    // }
+    // if(a==r)
+    // {
+    //     cout<<"armstrong no";
+    // }
+    // else
+    //     {
+    //         cout<<"Not armstrong no";
+    //     }
+
     
 }
 

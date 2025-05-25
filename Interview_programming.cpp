@@ -137,15 +137,20 @@ int main()
     //     n=n/10;
     // }
 
-    int a,r=0;
-    cin>>a;
+    // int a,r=0,p;
+    // cin>>a;
+    // p=a;
+    // while(a>0)
+    // {
+    //     int d= a%10;
+    //     r=r*10+d;
+    //     a=a/10;
+    // }
+    // if(r==p)
+    //     cout<<"palindrom";
+    // else
+    //     cout<<"not palindrome";
 
-    while(a>0)
-    {
-        int d= a%10;
-        r=r*10+d;
-        a=a/10;
-    }
-    cout<<r;
+    
 }
 

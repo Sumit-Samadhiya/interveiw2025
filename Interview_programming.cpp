@@ -199,7 +199,6 @@ int main()
 
     // int n, d=0;
     // cin>>n;
-
     // while(n > 0)
     // {
     //     n=n/10;
@@ -207,5 +206,15 @@ int main()
     // }
     // cout<<d;
 
+    // int n, d=0;
+    // cin>>n;
+    // while(n>0)
+    // {
+    //     d=d+n%10;
+    //     n=n/10;
+    // }
+    // cout<<d;
+
+    
 }
 

@@ -244,6 +244,19 @@ int main()
 // 29. Check if two strings are anagrams.
 // 30. Reverse a string without using built-in functions.
 
-    
+    int a[4]=  {3,2,6,5};
+
+    for(int i=0; i<a[i]; i++)
+    {
+        for(int j=i+1; j<a[j]; j++)
+        {
+            if(a[i]>=a[j])
+            {
+                
+            }
+        }
+
+    }
+
 }
 

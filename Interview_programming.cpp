@@ -233,6 +233,17 @@ int main()
     //         cout<<"Not armstrong no";
     //     }
 
+//     21. Find the largest/smallest element in an array.
+// 22. Sort an array using bubble/selection/insertion sort.
+// 23. Find the sum and average of elements in an array.
+// 24. Search an element in an array (linear & binary search).
+// 25. Reverse an array.
+// 26. Remove duplicates from an array.
+// 27. Merge two arrays.
+// 28. Count frequency of each element in an array.
+// 29. Check if two strings are anagrams.
+// 30. Reverse a string without using built-in functions.
+
     
 }
 
